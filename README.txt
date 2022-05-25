@@ -1,0 +1,1 @@
+Lavoro svolto dagli studenti Signorelli Antonio e Abelli Filippo (matricole rispettivamente 306824 e 309760). Il gioco è perfettamente funzionante in tutte le funzionalità implementate.
